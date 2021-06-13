@@ -22,4 +22,5 @@
 ## Mini Projects
 
 - [Mini Countdown](https://github.tridiamond.tech/projects/mini-countdown)
-- [Movie Fight](https://github.tridiamond.tech/projects/move-fight)
+- [Movie Fight](https://github.tridiamond.tech/projects/movie-fight)
+- [Maze Game](https://github.tridiamond.tech/projects/maze-game) - Using Canvas API
