@@ -1,0 +1,16 @@
+{
+  "name": "node-watchit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TriDiamond <code.tridiamond@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "watchit": "index.js"
+  },
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chalk": "^4.1.1",
+    "chokidar": "^3.5.1",
+    "lodash.debounce": "^4.0.8"
+  }
+}

@@ -24,3 +24,8 @@
 - [Mini Countdown](https://github.tridiamond.tech/projects/mini-countdown)
 - [Movie Fight](https://github.tridiamond.tech/projects/movie-fight)
 - [Maze Game](https://github.tridiamond.tech/projects/maze-game) - Using Canvas API
+
+## Command Tools
+
+- [Node ls Command](https://github.com/TriDiamond/projects/node-ls-command) - Reproduce linux `ls` command with NodeJS
+- [Node WatchIt](https://github.com/TriDiamond/projects/node-watchit) - Reproduce `Nodemon` from scratch
