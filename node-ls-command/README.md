@@ -1,4 +1,26 @@
-# Making a Node Command Tool
+# Linux like `ls` command with NodeJS
+
+## Setup and Usage
+
+**Install dependencies**
+
+```shell
+npm install
+#or
+yarn install
+```
+
+**Link the package**
+
+```shell
+npm link
+```
+
+**Watch a file**
+
+```shell
+nls
+```
 
 ## Steps
 

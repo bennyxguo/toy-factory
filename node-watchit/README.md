@@ -1,6 +1,28 @@
 # Node WatchIt Command Tool
 
-> Contain the same feature as Nodemon, where it can watch a file, when this file changes, it will re-execute the file.
+> Contain the similar feature as Nodemon, where it can watch a file, when this file changes, it will re-execute the file.
+
+## Setup and Usage
+
+**Install dependencies**
+
+```shell
+npm install
+#or
+yarn install
+```
+
+**Link the package**
+
+```shell
+npm link
+```
+
+**Watch a file**
+
+```shell
+watchit test.js
+```
 
 ## Challenges
 

@@ -21,7 +21,7 @@
 
 ## Toy Projects
 
-- [Mini Shop](https://github.tridiamond.tech/toy-factory/mini-shop)
+- [Mini Shop](https://github.tridiamond.tech/toy-factory/mini-shop) - Crafted with vanilla Javascript and NodeJS
 
 ## Toy Programs
 
