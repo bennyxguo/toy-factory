@@ -1,0 +1,19 @@
+{
+  "name": "tme",
+  "version": "1.0.0",
+  "description": "Test Me - A custom testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TriDiamond <code.tridiamond@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "jsdom": "^16.6.0"
+  }
+}

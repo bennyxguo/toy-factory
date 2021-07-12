@@ -28,8 +28,10 @@
 - [Mini Countdown](https://github.tridiamond.tech/toy-factory/mini-countdown)
 - [Movie Fight](https://github.tridiamond.tech/toy-factory/movie-fight)
 - [Maze Game](https://github.tridiamond.tech/toy-factory/maze-game) - Using Canvas API
+- [Kitty Friends](https://github.tridiamond.tech/toy-factory/kittyfriends) - React mini APP
 
 ## Toy Tools
 
 - [Node ls Command](https://github.com/TriDiamond/toy-factory/node-ls-command) - Reproduce linux `ls` command with NodeJS
 - [Node WatchIt](https://github.com/TriDiamond/toy-factory/node-watchit) - Reproduce `Nodemon` from scratch
+- [HiDash]() - A mini-tool to test out testing.
